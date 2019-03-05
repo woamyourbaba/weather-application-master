@@ -2,4 +2,4 @@ If your cann't get correct time and forecast, please check your system time and 
 ![Design](something.png)
 
 Gif is available.
-![Design](weather.gif)
+![Design](2weather.gif)
